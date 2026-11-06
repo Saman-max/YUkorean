@@ -1,0 +1,19 @@
+{
+  "name": "yukorean",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tori Korean learning product reconstruction and product research",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "jsdom": "^31.0.0"
+  }
+}

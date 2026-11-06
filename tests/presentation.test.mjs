@@ -1,0 +1,20 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {JSDOM} from 'jsdom';
+test('presentation: own learning routes, theme, preview, postcard, letter, mobile navigation',async()=>{
+ const html=(await readFile(new URL('../src/pages/index.html',import.meta.url),'utf8')).replace('</head>','<meta name="app-base" content="/"></head>');
+ const dom=new JSDOM(html,{url:'https://example.com/'});
+ for(const key of ['window','document','location','localStorage'])globalThis[key]=dom.window[key];
+ dom.window.HTMLDialogElement.prototype.showModal=function(){this.open=true};dom.window.HTMLDialogElement.prototype.close=function(){this.open=false};
+ dom.window.HTMLElement.prototype.scrollIntoView=function(){};
+ await import('../public/brand-interactions.js');
+ const click=s=>{const el=document.querySelector(s);assert.ok(el,`missing ${s}`);el.click();};
+ assert.equal(document.documentElement.dataset.theme,'light');click('.theme-toggle');assert.equal(document.documentElement.dataset.theme,'dark');
+ click('[data-feature-entry="sound"]');assert.equal(document.querySelectorAll('.rd-letters button').length,10);assert.ok(document.querySelector('.replica-dialog a[href="/learn/#/phonetics"]'));click('.rd-close');
+ click('.sj-postcard-front');assert.ok(document.querySelector('.sj-postcard.is-flipped'));click('.sj-flip-back');assert.ok(!document.querySelector('.sj-postcard.is-flipped'));
+ click('.tori-letter-seal');assert.equal(document.querySelector('.tori-letter-stage').dataset.phase,'open');click('.tori-letter-turn');assert.equal(document.querySelector('.tori-letter-stage').dataset.side,'back');
+ click('.menu-toggle');assert.equal(document.querySelector('.menu-toggle').getAttribute('aria-expanded'),'true');assert.equal(document.querySelector('.mobile-menu-shell').inert,false);
+ click('[aria-controls="tori-room-discovery"]');assert.ok(document.querySelector('.replica-room-discovery a[href="/learn/#/phonetics"]'));
+ dom.window.close();
+});

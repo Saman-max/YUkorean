@@ -1,0 +1,1537 @@
+[
+  {
+    "path": "/brand/assets/AnimalCityWorld-DL3xGJU2.css",
+    "bytes": 36262,
+    "source": "https://torikorean.com/brand/assets/AnimalCityWorld-DL3xGJU2.css"
+  },
+  {
+    "path": "/brand/assets/App-CYkiC0Zg.css",
+    "bytes": 104137,
+    "source": "https://torikorean.com/brand/assets/App-CYkiC0Zg.css"
+  },
+  {
+    "path": "/brand/assets/BrandChannelPanel-DCfhNMzy.css",
+    "bytes": 1647,
+    "source": "https://torikorean.com/brand/assets/BrandChannelPanel-DCfhNMzy.css"
+  },
+  {
+    "path": "/brand/assets/DownloadPage-COWZHnYt.css",
+    "bytes": 11929,
+    "source": "https://torikorean.com/brand/assets/DownloadPage-COWZHnYt.css"
+  },
+  {
+    "path": "/brand/assets/ExploreSeoulPage-DabQDTCD.css",
+    "bytes": 2037,
+    "source": "https://torikorean.com/brand/assets/ExploreSeoulPage-DabQDTCD.css"
+  },
+  {
+    "path": "/brand/assets/KoreaPage-BcHRpM5u.css",
+    "bytes": 75029,
+    "source": "https://torikorean.com/brand/assets/KoreaPage-BcHRpM5u.css"
+  },
+  {
+    "path": "/brand/assets/MembershipPage-Cwaxg4Lb.css",
+    "bytes": 37135,
+    "source": "https://torikorean.com/brand/assets/MembershipPage-Cwaxg4Lb.css"
+  },
+  {
+    "path": "/brand/assets/ai-scene-animal-market.v-0e8dd9f08cf9d980.webp",
+    "bytes": 137920,
+    "source": "https://torikorean.com/brand/assets/ai-scene-animal-market.v-0e8dd9f08cf9d980.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-bakery.v-028db2fa787bef5c.webp",
+    "bytes": 170024,
+    "source": "https://torikorean.com/brand/assets/ai-scene-bakery.v-028db2fa787bef5c.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-bookstore-24h.v-c1ec98b56b593146.webp",
+    "bytes": 185598,
+    "source": "https://torikorean.com/brand/assets/ai-scene-bookstore-24h.v-c1ec98b56b593146.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-cinema.v-c2b4befebe27a606.webp",
+    "bytes": 105666,
+    "source": "https://torikorean.com/brand/assets/ai-scene-cinema.v-c2b4befebe27a606.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-city-hall.v-ceba8640100e4efb.webp",
+    "bytes": 141904,
+    "source": "https://torikorean.com/brand/assets/ai-scene-city-hall.v-ceba8640100e4efb.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-culture-park.v-43f2258690efb748.webp",
+    "bytes": 147306,
+    "source": "https://torikorean.com/brand/assets/ai-scene-culture-park.v-43f2258690efb748.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-fansign-cafe.v-27cbd2c0ce99c878.webp",
+    "bytes": 102180,
+    "source": "https://torikorean.com/brand/assets/ai-scene-fansign-cafe.v-27cbd2c0ce99c878.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-hanbit-classroom.v-4b0ad259343e9421.webp",
+    "bytes": 96062,
+    "source": "https://torikorean.com/brand/assets/ai-scene-hanbit-classroom.v-4b0ad259343e9421.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-haru-cafe.v-27120b5b972850bc.webp",
+    "bytes": 168838,
+    "source": "https://torikorean.com/brand/assets/ai-scene-haru-cafe.v-27120b5b972850bc.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-hongkong-street.v-405feacaad87f8ef.webp",
+    "bytes": 162310,
+    "source": "https://torikorean.com/brand/assets/ai-scene-hongkong-street.v-405feacaad87f8ef.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-incheon-airport.v-a412ca20e0109059.webp",
+    "bytes": 110658,
+    "source": "https://torikorean.com/brand/assets/ai-scene-incheon-airport.v-a412ca20e0109059.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-karaoke.v-87d121b3a90291bc.webp",
+    "bytes": 99072,
+    "source": "https://torikorean.com/brand/assets/ai-scene-karaoke.v-87d121b3a90291bc.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-library.v-9bd7345774644a06.webp",
+    "bytes": 140240,
+    "source": "https://torikorean.com/brand/assets/ai-scene-library.v-9bd7345774644a06.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-stationery.v-6233fabd4d193a1a.webp",
+    "bytes": 126794,
+    "source": "https://torikorean.com/brand/assets/ai-scene-stationery.v-6233fabd4d193a1a.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-subway-station.v-e205b980f5e7baa4.webp",
+    "bytes": 94976,
+    "source": "https://torikorean.com/brand/assets/ai-scene-subway-station.v-e205b980f5e7baa4.webp"
+  },
+  {
+    "path": "/brand/assets/ai-scene-suul-station.v-bf8b855337efb473.webp",
+    "bytes": 135482,
+    "source": "https://torikorean.com/brand/assets/ai-scene-suul-station.v-bf8b855337efb473.webp"
+  },
+  {
+    "path": "/brand/assets/animal-city-airport-user.v-ccee51d143f0f225.webp",
+    "bytes": 408584,
+    "source": "https://torikorean.com/brand/assets/animal-city-airport-user.v-ccee51d143f0f225.webp"
+  },
+  {
+    "path": "/brand/assets/blog-avatar-haru.v-1cec160184c23792.png",
+    "bytes": 34199,
+    "source": "https://torikorean.com/brand/assets/blog-avatar-haru.v-1cec160184c23792.png"
+  },
+  {
+    "path": "/brand/assets/blog-avatar-junho.v-e70a8c4def87bf78.png",
+    "bytes": 39772,
+    "source": "https://torikorean.com/brand/assets/blog-avatar-junho.v-e70a8c4def87bf78.png"
+  },
+  {
+    "path": "/brand/assets/blog-avatar-minji.v-9e0d18b231b52053.png",
+    "bytes": 39153,
+    "source": "https://torikorean.com/brand/assets/blog-avatar-minji.v-9e0d18b231b52053.png"
+  },
+  {
+    "path": "/brand/assets/blog-avatar-tori.v-c8f817fa720fec69.png",
+    "bytes": 41784,
+    "source": "https://torikorean.com/brand/assets/blog-avatar-tori.v-c8f817fa720fec69.png"
+  },
+  {
+    "path": "/brand/assets/brand-tori-horizontal.v-3b810304ae4ef51a.svg",
+    "bytes": 10071,
+    "source": "https://torikorean.com/brand/assets/brand-tori-horizontal.v-3b810304ae4ef51a.svg"
+  },
+  {
+    "path": "/brand/assets/brand-tori-symbol.v-2a438f6d90e4e823.svg",
+    "bytes": 6506,
+    "source": "https://torikorean.com/brand/assets/brand-tori-symbol.v-2a438f6d90e4e823.svg"
+  },
+  {
+    "path": "/brand/assets/diary-day01-hero.v-c71c9ec08e62dde5.jpg",
+    "bytes": 168176,
+    "source": "https://torikorean.com/brand/assets/diary-day01-hero.v-c71c9ec08e62dde5.jpg"
+  },
+  {
+    "path": "/brand/assets/diary-day07-scene.v-bb5e235d696b69b9.jpg",
+    "bytes": 239168,
+    "source": "https://torikorean.com/brand/assets/diary-day07-scene.v-bb5e235d696b69b9.jpg"
+  },
+  {
+    "path": "/brand/assets/diary-room-640.v-15b74f4ab93a2319.webp",
+    "bytes": 61544,
+    "source": "https://torikorean.com/brand/assets/diary-room-640.v-15b74f4ab93a2319.webp"
+  },
+  {
+    "path": "/brand/assets/diary-room-960.v-06ee3ed3e10e52a0.webp",
+    "bytes": 117498,
+    "source": "https://torikorean.com/brand/assets/diary-room-960.v-06ee3ed3e10e52a0.webp"
+  },
+  {
+    "path": "/brand/assets/diary-room.v-ce7ea9db79ad00c6.webp",
+    "bytes": 286366,
+    "source": "https://torikorean.com/brand/assets/diary-room.v-ce7ea9db79ad00c6.webp"
+  },
+  {
+    "path": "/brand/assets/diary-scrapbook-cover-640.v-5591e00bd45c76c7.webp",
+    "bytes": 162896,
+    "source": "https://torikorean.com/brand/assets/diary-scrapbook-cover-640.v-5591e00bd45c76c7.webp"
+  },
+  {
+    "path": "/brand/assets/diary-scrapbook-cover-960.v-33b87cd256588c2f.webp",
+    "bytes": 351930,
+    "source": "https://torikorean.com/brand/assets/diary-scrapbook-cover-960.v-33b87cd256588c2f.webp"
+  },
+  {
+    "path": "/brand/assets/diary-scrapbook-cover.v-acdca013e119188a.webp",
+    "bytes": 448194,
+    "source": "https://torikorean.com/brand/assets/diary-scrapbook-cover.v-acdca013e119188a.webp"
+  },
+  {
+    "path": "/brand/assets/hero-city-640.v-745b8761814c5316.webp",
+    "bytes": 48252,
+    "source": "https://torikorean.com/brand/assets/hero-city-640.v-745b8761814c5316.webp"
+  },
+  {
+    "path": "/brand/assets/hero-city-960.v-fa6f5093d8cf3f5d.webp",
+    "bytes": 92620,
+    "source": "https://torikorean.com/brand/assets/hero-city-960.v-fa6f5093d8cf3f5d.webp"
+  },
+  {
+    "path": "/brand/assets/hero-city.v-06539f1c3defb0ad.webp",
+    "bytes": 197080,
+    "source": "https://torikorean.com/brand/assets/hero-city.v-06539f1c3defb0ad.webp"
+  },
+  {
+    "path": "/brand/assets/index--EWJfPTy.css",
+    "bytes": 230471,
+    "source": "https://torikorean.com/brand/assets/index--EWJfPTy.css"
+  },
+  {
+    "path": "/brand/assets/interview-preview.v-aadb57586a17438b.mp3",
+    "bytes": 1057148,
+    "source": "https://torikorean.com/brand/assets/interview-preview.v-aadb57586a17438b.mp3"
+  },
+  {
+    "path": "/brand/assets/junho-classroom-user.v-ed7f79db49ddc9ae.webp",
+    "bytes": 178456,
+    "source": "https://torikorean.com/brand/assets/junho-classroom-user.v-ed7f79db49ddc9ae.webp"
+  },
+  {
+    "path": "/brand/assets/korea-hero-seoul-hanok-1600.v-101cfc98b59b6eb4.webp",
+    "bytes": 160050,
+    "source": "https://torikorean.com/brand/assets/korea-hero-seoul-hanok-1600.v-101cfc98b59b6eb4.webp"
+  },
+  {
+    "path": "/brand/assets/korea-hero-seoul-hanok-3200.v-be1998c21e300c43.webp",
+    "bytes": 447976,
+    "source": "https://torikorean.com/brand/assets/korea-hero-seoul-hanok-3200.v-be1998c21e300c43.webp"
+  },
+  {
+    "path": "/brand/assets/korea-hero-seoul-hanok-800.v-411916a5ccb5588a.webp",
+    "bytes": 54430,
+    "source": "https://torikorean.com/brand/assets/korea-hero-seoul-hanok-800.v-411916a5ccb5588a.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-abai-small.v-818eb73a12fa3ebb.webp",
+    "bytes": 48498,
+    "source": "https://torikorean.com/brand/assets/korea-photo-abai-small.v-818eb73a12fa3ebb.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-abai.v-450d573dd479f851.webp",
+    "bytes": 177350,
+    "source": "https://torikorean.com/brand/assets/korea-photo-abai.v-450d573dd479f851.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-changdeokgung-small.v-deabbd6b9d756829.webp",
+    "bytes": 76996,
+    "source": "https://torikorean.com/brand/assets/korea-photo-changdeokgung-small.v-deabbd6b9d756829.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-changdeokgung.v-d0bc46e7d80b82c3.webp",
+    "bytes": 274066,
+    "source": "https://torikorean.com/brand/assets/korea-photo-changdeokgung.v-d0bc46e7d80b82c3.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-cheomseongdae-small.v-cd03e5704984926a.webp",
+    "bytes": 29064,
+    "source": "https://torikorean.com/brand/assets/korea-photo-cheomseongdae-small.v-cd03e5704984926a.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-cheomseongdae.v-65955d06a83d24f4.webp",
+    "bytes": 103308,
+    "source": "https://torikorean.com/brand/assets/korea-photo-cheomseongdae.v-65955d06a83d24f4.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-gwangalli-small.v-35ab45506dccae74.webp",
+    "bytes": 38124,
+    "source": "https://torikorean.com/brand/assets/korea-photo-gwangalli-small.v-35ab45506dccae74.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-gwangalli.v-2fd360da4bc00565.webp",
+    "bytes": 134688,
+    "source": "https://torikorean.com/brand/assets/korea-photo-gwangalli.v-2fd360da4bc00565.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-haenyeo-museum-small.v-1428c6a6169b3509.webp",
+    "bytes": 17626,
+    "source": "https://torikorean.com/brand/assets/korea-photo-haenyeo-museum-small.v-1428c6a6169b3509.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-haenyeo-museum.v-b3823c03f2b20fa1.webp",
+    "bytes": 50088,
+    "source": "https://torikorean.com/brand/assets/korea-photo-haenyeo-museum.v-b3823c03f2b20fa1.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-jeonju-hanok-small.v-74c006805b47a60e.webp",
+    "bytes": 109688,
+    "source": "https://torikorean.com/brand/assets/korea-photo-jeonju-hanok-small.v-74c006805b47a60e.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-jeonju-hanok.v-37db7e51931a9dca.webp",
+    "bytes": 373154,
+    "source": "https://torikorean.com/brand/assets/korea-photo-jeonju-hanok.v-37db7e51931a9dca.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-juknokwon-small.v-73d885ed54eb4569.webp",
+    "bytes": 199494,
+    "source": "https://torikorean.com/brand/assets/korea-photo-juknokwon-small.v-73d885ed54eb4569.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-juknokwon.v-55232d57dd65c7fb.webp",
+    "bytes": 689892,
+    "source": "https://torikorean.com/brand/assets/korea-photo-juknokwon.v-55232d57dd65c7fb.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-mangwon-small.v-e9558af1b44d872c.webp",
+    "bytes": 73474,
+    "source": "https://torikorean.com/brand/assets/korea-photo-mangwon-small.v-e9558af1b44d872c.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-mangwon.v-d38f9f9601debe15.webp",
+    "bytes": 231134,
+    "source": "https://torikorean.com/brand/assets/korea-photo-mangwon.v-d38f9f9601debe15.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-national-museum-small.v-1fc81d790cf8cb2c.webp",
+    "bytes": 26688,
+    "source": "https://torikorean.com/brand/assets/korea-photo-national-museum-small.v-1fc81d790cf8cb2c.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-national-museum.v-973e3339b79c64a0.webp",
+    "bytes": 80808,
+    "source": "https://torikorean.com/brand/assets/korea-photo-national-museum.v-973e3339b79c64a0.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-seongsu-small.v-bb2b16efe00b002a.webp",
+    "bytes": 50172,
+    "source": "https://torikorean.com/brand/assets/korea-photo-seongsu-small.v-bb2b16efe00b002a.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-seongsu.v-bb3f99d500f47c0c.webp",
+    "bytes": 176512,
+    "source": "https://torikorean.com/brand/assets/korea-photo-seongsu.v-bb3f99d500f47c0c.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-starfield-library-small.v-4c9dcbf95af21119.webp",
+    "bytes": 140894,
+    "source": "https://torikorean.com/brand/assets/korea-photo-starfield-library-small.v-4c9dcbf95af21119.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-starfield-library.v-f5d5ded039022626.webp",
+    "bytes": 522800,
+    "source": "https://torikorean.com/brand/assets/korea-photo-starfield-library.v-f5d5ded039022626.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-yeonnam-small.v-86045dc4e2072989.webp",
+    "bytes": 80384,
+    "source": "https://torikorean.com/brand/assets/korea-photo-yeonnam-small.v-86045dc4e2072989.webp"
+  },
+  {
+    "path": "/brand/assets/korea-photo-yeonnam.v-91b4754c75b85361.webp",
+    "bytes": 250592,
+    "source": "https://torikorean.com/brand/assets/korea-photo-yeonnam.v-91b4754c75b85361.webp"
+  },
+  {
+    "path": "/brand/assets/kr-university-100002.v-f03000b9a4788db5.jpg",
+    "bytes": 165913,
+    "source": "https://torikorean.com/brand/assets/kr-university-100002.v-f03000b9a4788db5.jpg"
+  },
+  {
+    "path": "/brand/assets/kr-university-100004.v-67cb7c3bb2fb1f71.jpg",
+    "bytes": 86141,
+    "source": "https://torikorean.com/brand/assets/kr-university-100004.v-67cb7c3bb2fb1f71.jpg"
+  },
+  {
+    "path": "/brand/assets/kr-university-100007.v-c5da488bb1e442cc.jpg",
+    "bytes": 149908,
+    "source": "https://torikorean.com/brand/assets/kr-university-100007.v-c5da488bb1e442cc.jpg"
+  },
+  {
+    "path": "/brand/assets/kr-university-100009.v-75257e0764b22501.jpg",
+    "bytes": 206293,
+    "source": "https://torikorean.com/brand/assets/kr-university-100009.v-75257e0764b22501.jpg"
+  },
+  {
+    "path": "/brand/assets/kr-university-100012.v-8a79810e858525ee.jpg",
+    "bytes": 16524,
+    "source": "https://torikorean.com/brand/assets/kr-university-100012.v-8a79810e858525ee.jpg"
+  },
+  {
+    "path": "/brand/assets/kr-university-100014.v-aa0b69a79a6810e6.png",
+    "bytes": 1268062,
+    "source": "https://torikorean.com/brand/assets/kr-university-100014.v-aa0b69a79a6810e6.png"
+  },
+  {
+    "path": "/brand/assets/kr-university-100015.v-e4ccb885633a0cf3.jpg",
+    "bytes": 214704,
+    "source": "https://torikorean.com/brand/assets/kr-university-100015.v-e4ccb885633a0cf3.jpg"
+  },
+  {
+    "path": "/brand/assets/letter-social-douyin.v-1b32f5b2d6eea8e1.jpg",
+    "bytes": 170410,
+    "source": "https://torikorean.com/brand/assets/letter-social-douyin.v-1b32f5b2d6eea8e1.jpg"
+  },
+  {
+    "path": "/brand/assets/letter-social-wechat.v-4d1fdcbb0a87ac96.jpg",
+    "bytes": 102788,
+    "source": "https://torikorean.com/brand/assets/letter-social-wechat.v-4d1fdcbb0a87ac96.jpg"
+  },
+  {
+    "path": "/brand/assets/letter-social-xiaohongshu.v-145faedc992ee767.jpg",
+    "bytes": 95332,
+    "source": "https://torikorean.com/brand/assets/letter-social-xiaohongshu.v-145faedc992ee767.jpg"
+  },
+  {
+    "path": "/brand/assets/membership-learning-ai-dialogue.v-8b27d50634bafd4c.png",
+    "bytes": 2288104,
+    "source": "https://torikorean.com/brand/assets/membership-learning-ai-dialogue.v-8b27d50634bafd4c.png"
+  },
+  {
+    "path": "/brand/assets/membership-learning-diary.v-52a956058e170766.png",
+    "bytes": 455345,
+    "source": "https://torikorean.com/brand/assets/membership-learning-diary.v-52a956058e170766.png"
+  },
+  {
+    "path": "/brand/assets/membership-learning-grammar.v-fc67216ef0cec246.png",
+    "bytes": 636767,
+    "source": "https://torikorean.com/brand/assets/membership-learning-grammar.v-fc67216ef0cec246.png"
+  },
+  {
+    "path": "/brand/assets/membership-learning-radio.v-05766c6a7f2865a8.png",
+    "bytes": 2217829,
+    "source": "https://torikorean.com/brand/assets/membership-learning-radio.v-05766c6a7f2865a8.png"
+  },
+  {
+    "path": "/brand/assets/membership-learning-reading.v-4b9af22696b0aa6c.png",
+    "bytes": 2452753,
+    "source": "https://torikorean.com/brand/assets/membership-learning-reading.v-4b9af22696b0aa6c.png"
+  },
+  {
+    "path": "/brand/assets/membership-learning-topik.v-242c8a90ffb4e7fa.png",
+    "bytes": 390380,
+    "source": "https://torikorean.com/brand/assets/membership-learning-topik.v-242c8a90ffb4e7fa.png"
+  },
+  {
+    "path": "/brand/assets/membership-materials-overview.v-3b67ab186f91556b.jpg",
+    "bytes": 134775,
+    "source": "https://torikorean.com/brand/assets/membership-materials-overview.v-3b67ab186f91556b.jpg"
+  },
+  {
+    "path": "/brand/assets/membership-report-charts.v-964c18ec00e98492.png",
+    "bytes": 114147,
+    "source": "https://torikorean.com/brand/assets/membership-report-charts.v-964c18ec00e98492.png"
+  },
+  {
+    "path": "/brand/assets/membership-report-contact.v-bacaf72435d33a93.png",
+    "bytes": 78430,
+    "source": "https://torikorean.com/brand/assets/membership-report-contact.v-bacaf72435d33a93.png"
+  },
+  {
+    "path": "/brand/assets/membership-report-overview.v-a93425de04a96cb0.png",
+    "bytes": 504705,
+    "source": "https://torikorean.com/brand/assets/membership-report-overview.v-a93425de04a96cb0.png"
+  },
+  {
+    "path": "/brand/assets/membership-report-quiz.v-1b43d47d5d2ec2dc.png",
+    "bytes": 60025,
+    "source": "https://torikorean.com/brand/assets/membership-report-quiz.v-1b43d47d5d2ec2dc.png"
+  },
+  {
+    "path": "/brand/assets/membership-scene.v-4a4e0340b15374e8.webp",
+    "bytes": 318740,
+    "source": "https://torikorean.com/brand/assets/membership-scene.v-4a4e0340b15374e8.webp"
+  },
+  {
+    "path": "/brand/assets/radio-fox-interview.v-22411d83536fecff.webp",
+    "bytes": 44538,
+    "source": "https://torikorean.com/brand/assets/radio-fox-interview.v-22411d83536fecff.webp"
+  },
+  {
+    "path": "/brand/assets/tori-bookshop-night-640.v-4c048573a21b3dbd.webp",
+    "bytes": 81274,
+    "source": "https://torikorean.com/brand/assets/tori-bookshop-night-640.v-4c048573a21b3dbd.webp"
+  },
+  {
+    "path": "/brand/assets/tori-bookshop-night-960.v-58e617d11d7baff8.webp",
+    "bytes": 150162,
+    "source": "https://torikorean.com/brand/assets/tori-bookshop-night-960.v-58e617d11d7baff8.webp"
+  },
+  {
+    "path": "/brand/assets/tori-bookshop-night.v-bd568d94a2175263.webp",
+    "bytes": 311080,
+    "source": "https://torikorean.com/brand/assets/tori-bookshop-night.v-bd568d94a2175263.webp"
+  },
+  {
+    "path": "/brand/assets/tori-download-studio-1536.v-835f67f04a23bbb7.webp",
+    "bytes": 242368,
+    "source": "https://torikorean.com/brand/assets/tori-download-studio-1536.v-835f67f04a23bbb7.webp"
+  },
+  {
+    "path": "/brand/assets/tori-download-studio-800.v-100d20835846dcfa.webp",
+    "bytes": 89136,
+    "source": "https://torikorean.com/brand/assets/tori-download-studio-800.v-100d20835846dcfa.webp"
+  },
+  {
+    "path": "/brand/assets/tori-little-room-640.v-d42b69f8f01dd1d8.webp",
+    "bytes": 87164,
+    "source": "https://torikorean.com/brand/assets/tori-little-room-640.v-d42b69f8f01dd1d8.webp"
+  },
+  {
+    "path": "/brand/assets/tori-little-room-960.v-64fa42d169cc2f37.webp",
+    "bytes": 170126,
+    "source": "https://torikorean.com/brand/assets/tori-little-room-960.v-64fa42d169cc2f37.webp"
+  },
+  {
+    "path": "/brand/assets/tori-little-room.v-5f43cd8dfdbd6b41.webp",
+    "bytes": 377904,
+    "source": "https://torikorean.com/brand/assets/tori-little-room.v-5f43cd8dfdbd6b41.webp"
+  },
+  {
+    "path": "/brand/assets/tori.v-bb099eed423d299c.webp",
+    "bytes": 42722,
+    "source": "https://torikorean.com/brand/assets/tori.v-bb099eed423d299c.webp"
+  },
+  {
+    "path": "/brand/assets/w1-tori-meet-haru-0.v-fec135229bf057d4.jpg",
+    "bytes": 126222,
+    "source": "https://torikorean.com/brand/assets/w1-tori-meet-haru-0.v-fec135229bf057d4.jpg"
+  },
+  {
+    "path": "/brand/assets/dm-sans-latin-400-normal-BwCSEQnW.woff",
+    "bytes": 18356,
+    "source": "https://torikorean.com/brand/assets/dm-sans-latin-400-normal-BwCSEQnW.woff"
+  },
+  {
+    "path": "/brand/assets/dm-sans-latin-400-normal-CW0RaeGs.woff2",
+    "bytes": 14200,
+    "source": "https://torikorean.com/brand/assets/dm-sans-latin-400-normal-CW0RaeGs.woff2"
+  },
+  {
+    "path": "/brand/assets/dm-sans-latin-500-normal-B9HHJjqV.woff2",
+    "bytes": 14304,
+    "source": "https://torikorean.com/brand/assets/dm-sans-latin-500-normal-B9HHJjqV.woff2"
+  },
+  {
+    "path": "/brand/assets/dm-sans-latin-500-normal-Dr3UlScf.woff",
+    "bytes": 18520,
+    "source": "https://torikorean.com/brand/assets/dm-sans-latin-500-normal-Dr3UlScf.woff"
+  },
+  {
+    "path": "/brand/assets/letter-city-paper.v-4cc7ca3994bfb6c6.webp",
+    "bytes": 188822,
+    "source": "https://torikorean.com/brand/assets/letter-city-paper.v-4cc7ca3994bfb6c6.webp"
+  },
+  {
+    "path": "/brand/assets/letter-hand-ko.v-3540514fb0b8f91a.woff2",
+    "bytes": 46680,
+    "source": "https://torikorean.com/brand/assets/letter-hand-ko.v-3540514fb0b8f91a.woff2"
+  },
+  {
+    "path": "/brand/assets/letter-hand-zh.v-9e4525ed1e24f0a0.woff2",
+    "bytes": 93360,
+    "source": "https://torikorean.com/brand/assets/letter-hand-zh.v-9e4525ed1e24f0a0.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-100-400-normal-BKv6BGbP.woff2",
+    "bytes": 44872,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-100-400-normal-BKv6BGbP.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-100-400-normal-DYERAMes.woff",
+    "bytes": 56068,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-100-400-normal-DYERAMes.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-101-400-normal-BStjW87e.woff2",
+    "bytes": 41352,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-101-400-normal-BStjW87e.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-101-400-normal-Bbgla88H.woff",
+    "bytes": 51644,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-101-400-normal-Bbgla88H.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-102-400-normal-CayZgFr8.woff",
+    "bytes": 52416,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-102-400-normal-CayZgFr8.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-102-400-normal-D0jjIP7b.woff2",
+    "bytes": 42284,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-102-400-normal-D0jjIP7b.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-103-400-normal-BacyqgzB.woff2",
+    "bytes": 44548,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-103-400-normal-BacyqgzB.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-103-400-normal-DFRlNUEh.woff",
+    "bytes": 55380,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-103-400-normal-DFRlNUEh.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-104-400-normal-BJpISxjV.woff2",
+    "bytes": 42668,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-104-400-normal-BJpISxjV.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-104-400-normal-CE-iWwBy.woff",
+    "bytes": 52964,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-104-400-normal-CE-iWwBy.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-105-400-normal-BVdiGARX.woff2",
+    "bytes": 42840,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-105-400-normal-BVdiGARX.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-105-400-normal-C0yMKQQ0.woff",
+    "bytes": 53556,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-105-400-normal-C0yMKQQ0.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-106-400-normal-CFgiBAlN.woff2",
+    "bytes": 43292,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-106-400-normal-CFgiBAlN.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-106-400-normal-DzRPerhZ.woff",
+    "bytes": 54088,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-106-400-normal-DzRPerhZ.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-107-400-normal-C-xy-ePu.woff",
+    "bytes": 52400,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-107-400-normal-C-xy-ePu.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-107-400-normal-D7IOdMtY.woff2",
+    "bytes": 41868,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-107-400-normal-D7IOdMtY.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-108-400-normal-8R3eevyF.woff2",
+    "bytes": 43888,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-108-400-normal-8R3eevyF.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-108-400-normal-CDY8TKko.woff",
+    "bytes": 54536,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-108-400-normal-CDY8TKko.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-109-400-normal-CCbA4ykF.woff",
+    "bytes": 52144,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-109-400-normal-CCbA4ykF.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-109-400-normal-DD9x2I7i.woff2",
+    "bytes": 41816,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-109-400-normal-DD9x2I7i.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-110-400-normal-BFC2YsOu.woff",
+    "bytes": 52152,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-110-400-normal-BFC2YsOu.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-110-400-normal-DmBZ3h9h.woff2",
+    "bytes": 41740,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-110-400-normal-DmBZ3h9h.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-111-400-normal-BDJvahR6.woff",
+    "bytes": 53612,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-111-400-normal-BDJvahR6.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-111-400-normal-I0OYzRem.woff2",
+    "bytes": 42840,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-111-400-normal-I0OYzRem.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-112-400-normal-Bk-2ncrb.woff2",
+    "bytes": 39988,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-112-400-normal-Bk-2ncrb.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-112-400-normal-nZX8pdxP.woff",
+    "bytes": 50040,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-112-400-normal-nZX8pdxP.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-113-400-normal-CZ6OmW4B.woff2",
+    "bytes": 39856,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-113-400-normal-CZ6OmW4B.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-113-400-normal-DqmoAol2.woff",
+    "bytes": 50008,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-113-400-normal-DqmoAol2.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-114-400-normal-BlZAE-JI.woff",
+    "bytes": 49192,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-114-400-normal-BlZAE-JI.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-114-400-normal-_Rbdbh0m.woff2",
+    "bytes": 39480,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-114-400-normal-_Rbdbh0m.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-115-400-normal-BrT5FyYv.woff2",
+    "bytes": 38008,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-115-400-normal-BrT5FyYv.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-115-400-normal-DaBrd5wu.woff",
+    "bytes": 47412,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-115-400-normal-DaBrd5wu.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-116-400-normal-9TTHFf5b.woff2",
+    "bytes": 35548,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-116-400-normal-9TTHFf5b.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-116-400-normal-BqeKNK-N.woff",
+    "bytes": 44484,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-116-400-normal-BqeKNK-N.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-117-400-normal-BVCUg5Nk.woff2",
+    "bytes": 35028,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-117-400-normal-BVCUg5Nk.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-117-400-normal-CED0zWy2.woff",
+    "bytes": 44276,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-117-400-normal-CED0zWy2.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-118-400-normal-BZQW9sfl.woff2",
+    "bytes": 30656,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-118-400-normal-BZQW9sfl.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-118-400-normal-Bax49ljU.woff",
+    "bytes": 39168,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-118-400-normal-Bax49ljU.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-119-400-normal-Bc0ZJdcs.woff2",
+    "bytes": 53688,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-119-400-normal-Bc0ZJdcs.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-119-400-normal-DFT6SxpB.woff",
+    "bytes": 69052,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-119-400-normal-DFT6SxpB.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-21-400-normal-BvvAjVin.woff2",
+    "bytes": 14000,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-21-400-normal-BvvAjVin.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-21-400-normal-CsJcvHJS.woff",
+    "bytes": 16584,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-21-400-normal-CsJcvHJS.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-22-400-normal-B2hQf9cX.woff2",
+    "bytes": 44684,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-22-400-normal-B2hQf9cX.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-22-400-normal-l_4pKOIF.woff",
+    "bytes": 54992,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-22-400-normal-l_4pKOIF.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-23-400-normal-BBC43Ijx.woff",
+    "bytes": 49052,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-23-400-normal-BBC43Ijx.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-23-400-normal-C5N4jcbj.woff2",
+    "bytes": 39164,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-23-400-normal-C5N4jcbj.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-24-400-normal-CC7o6kkj.woff2",
+    "bytes": 43772,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-24-400-normal-CC7o6kkj.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-24-400-normal-Z7AMHc6d.woff",
+    "bytes": 55116,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-24-400-normal-Z7AMHc6d.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-25-400-normal-DqZtiRuA.woff",
+    "bytes": 51636,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-25-400-normal-DqZtiRuA.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-25-400-normal-urYRrGpo.woff2",
+    "bytes": 41120,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-25-400-normal-urYRrGpo.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-26-400-normal-B8BtoPl4.woff2",
+    "bytes": 37548,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-26-400-normal-B8BtoPl4.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-26-400-normal-C3jxWSdP.woff",
+    "bytes": 46196,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-26-400-normal-C3jxWSdP.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-27-400-normal-BlFuZuZa.woff2",
+    "bytes": 34100,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-27-400-normal-BlFuZuZa.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-27-400-normal-CdldFnov.woff",
+    "bytes": 42156,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-27-400-normal-CdldFnov.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-28-400-normal-CsdcIb7y.woff2",
+    "bytes": 35584,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-28-400-normal-CsdcIb7y.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-28-400-normal-D8MomqZP.woff",
+    "bytes": 44492,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-28-400-normal-D8MomqZP.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-29-400-normal-E_gwsKck.woff",
+    "bytes": 48148,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-29-400-normal-E_gwsKck.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-29-400-normal-iFCh_d1M.woff2",
+    "bytes": 38108,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-29-400-normal-iFCh_d1M.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-30-400-normal-CiUIvAa-.woff",
+    "bytes": 52596,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-30-400-normal-CiUIvAa-.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-30-400-normal-DBxOSMUe.woff2",
+    "bytes": 40436,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-30-400-normal-DBxOSMUe.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-31-400-normal-BNlAXjnq.woff2",
+    "bytes": 33832,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-31-400-normal-BNlAXjnq.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-31-400-normal-Ds7HVP0_.woff",
+    "bytes": 43464,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-31-400-normal-Ds7HVP0_.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-32-400-normal-BhBS8LpG.woff",
+    "bytes": 42852,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-32-400-normal-BhBS8LpG.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-32-400-normal-DZTJtEP7.woff2",
+    "bytes": 35732,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-32-400-normal-DZTJtEP7.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-33-400-normal-30S7iB8Z.woff",
+    "bytes": 43476,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-33-400-normal-30S7iB8Z.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-33-400-normal-ro-aP1tv.woff2",
+    "bytes": 34792,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-33-400-normal-ro-aP1tv.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-34-400-normal-X5e8GmoB.woff",
+    "bytes": 42588,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-34-400-normal-X5e8GmoB.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-34-400-normal-lXnKXz4Y.woff2",
+    "bytes": 33988,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-34-400-normal-lXnKXz4Y.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-35-400-normal-CtRl2GYh.woff",
+    "bytes": 41628,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-35-400-normal-CtRl2GYh.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-35-400-normal-D50-WgO4.woff2",
+    "bytes": 33452,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-35-400-normal-D50-WgO4.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-36-400-normal-BSDq5-pw.woff",
+    "bytes": 39504,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-36-400-normal-BSDq5-pw.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-36-400-normal-CDoEPDjR.woff2",
+    "bytes": 30752,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-36-400-normal-CDoEPDjR.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-37-400-normal-B9EKfRYn.woff2",
+    "bytes": 35720,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-37-400-normal-B9EKfRYn.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-37-400-normal-DcRgmOtj.woff",
+    "bytes": 45048,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-37-400-normal-DcRgmOtj.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-38-400-normal-BDm8H2vf.woff2",
+    "bytes": 39784,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-38-400-normal-BDm8H2vf.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-38-400-normal-D_OcrA_v.woff",
+    "bytes": 48936,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-38-400-normal-D_OcrA_v.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-39-400-normal-70XhRHg9.woff",
+    "bytes": 46552,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-39-400-normal-70XhRHg9.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-39-400-normal-BTTMBvkG.woff2",
+    "bytes": 37892,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-39-400-normal-BTTMBvkG.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-40-400-normal-DniK6eZV.woff2",
+    "bytes": 34348,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-40-400-normal-DniK6eZV.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-40-400-normal-hZ15KKUf.woff",
+    "bytes": 43264,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-40-400-normal-hZ15KKUf.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-41-400-normal-Bu7Um73u.woff",
+    "bytes": 33272,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-41-400-normal-Bu7Um73u.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-41-400-normal-DEw3vu6W.woff2",
+    "bytes": 26640,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-41-400-normal-DEw3vu6W.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-42-400-normal-CRN0v8XY.woff",
+    "bytes": 40648,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-42-400-normal-CRN0v8XY.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-42-400-normal-DMZsbdat.woff2",
+    "bytes": 33148,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-42-400-normal-DMZsbdat.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-43-400-normal-BjK_nmU_.woff",
+    "bytes": 39032,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-43-400-normal-BjK_nmU_.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-43-400-normal-Dz-cBIW-.woff2",
+    "bytes": 30884,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-43-400-normal-Dz-cBIW-.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-44-400-normal-C0HLb_f4.woff",
+    "bytes": 47524,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-44-400-normal-C0HLb_f4.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-44-400-normal-DUwp9LUQ.woff2",
+    "bytes": 38060,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-44-400-normal-DUwp9LUQ.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-45-400-normal-BRhDcXQG.woff2",
+    "bytes": 47992,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-45-400-normal-BRhDcXQG.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-45-400-normal-DPJVEDCY.woff",
+    "bytes": 60020,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-45-400-normal-DPJVEDCY.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-46-400-normal-BaSP7CWa.woff",
+    "bytes": 51588,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-46-400-normal-BaSP7CWa.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-46-400-normal-CgOovutC.woff2",
+    "bytes": 40764,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-46-400-normal-CgOovutC.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-47-400-normal-BuMBOwIP.woff",
+    "bytes": 49804,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-47-400-normal-BuMBOwIP.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-47-400-normal-Y8xPWDwK.woff2",
+    "bytes": 39400,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-47-400-normal-Y8xPWDwK.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-48-400-normal-DdG3Pof0.woff",
+    "bytes": 43364,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-48-400-normal-DdG3Pof0.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-48-400-normal-rSxdmibZ.woff2",
+    "bytes": 33764,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-48-400-normal-rSxdmibZ.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-49-400-normal-BIAppCzz.woff2",
+    "bytes": 37160,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-49-400-normal-BIAppCzz.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-49-400-normal-C-jX5MVR.woff",
+    "bytes": 47232,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-49-400-normal-C-jX5MVR.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-5-400-normal-BIXwpHkp.woff2",
+    "bytes": 14968,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-5-400-normal-BIXwpHkp.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-5-400-normal-DwUqlTBd.woff",
+    "bytes": 17288,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-5-400-normal-DwUqlTBd.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-50-400-normal-BcMa-5Ok.woff2",
+    "bytes": 33948,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-50-400-normal-BcMa-5Ok.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-50-400-normal-D784wnOL.woff",
+    "bytes": 42544,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-50-400-normal-D784wnOL.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-51-400-normal-BLy2L3_T.woff",
+    "bytes": 37040,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-51-400-normal-BLy2L3_T.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-51-400-normal-anKsqyMJ.woff2",
+    "bytes": 30072,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-51-400-normal-anKsqyMJ.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-52-400-normal-CjiYC-tQ.woff2",
+    "bytes": 35828,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-52-400-normal-CjiYC-tQ.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-52-400-normal-lztEZyRw.woff",
+    "bytes": 45028,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-52-400-normal-lztEZyRw.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-53-400-normal-BP_qq_T5.woff2",
+    "bytes": 28604,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-53-400-normal-BP_qq_T5.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-53-400-normal-DO953Rpl.woff",
+    "bytes": 36296,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-53-400-normal-DO953Rpl.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-54-400-normal-C18oTYv7.woff",
+    "bytes": 45412,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-54-400-normal-C18oTYv7.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-54-400-normal-C1dgqgZv.woff2",
+    "bytes": 37160,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-54-400-normal-C1dgqgZv.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-55-400-normal-Con8n9VN.woff2",
+    "bytes": 32504,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-55-400-normal-Con8n9VN.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-55-400-normal-DKkeRAKX.woff",
+    "bytes": 41592,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-55-400-normal-DKkeRAKX.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-56-400-normal-CxMzOEA6.woff2",
+    "bytes": 37100,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-56-400-normal-CxMzOEA6.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-56-400-normal-xNC0ATxX.woff",
+    "bytes": 47344,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-56-400-normal-xNC0ATxX.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-57-400-normal-BHu0aY_e.woff2",
+    "bytes": 39076,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-57-400-normal-BHu0aY_e.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-57-400-normal-k2O_xBfU.woff",
+    "bytes": 49020,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-57-400-normal-k2O_xBfU.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-58-400-normal-DV8SYRTb.woff",
+    "bytes": 54044,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-58-400-normal-DV8SYRTb.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-58-400-normal-mgkvnvrS.woff2",
+    "bytes": 43404,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-58-400-normal-mgkvnvrS.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-59-400-normal-BoB3q3D2.woff2",
+    "bytes": 36420,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-59-400-normal-BoB3q3D2.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-59-400-normal-YlIsyXeh.woff",
+    "bytes": 45428,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-59-400-normal-YlIsyXeh.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-6-400-normal-Dsjp6y7V.woff",
+    "bytes": 11152,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-6-400-normal-Dsjp6y7V.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-6-400-normal-aJwSkO7R.woff2",
+    "bytes": 8844,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-6-400-normal-aJwSkO7R.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-60-400-normal-B0Pjm-fN.woff2",
+    "bytes": 31920,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-60-400-normal-B0Pjm-fN.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-60-400-normal-cIJdnd8i.woff",
+    "bytes": 39588,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-60-400-normal-cIJdnd8i.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-61-400-normal-BLjurhgD.woff",
+    "bytes": 40124,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-61-400-normal-BLjurhgD.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-61-400-normal-DzZ7IP92.woff2",
+    "bytes": 32236,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-61-400-normal-DzZ7IP92.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-62-400-normal-C6aW8wlz.woff2",
+    "bytes": 42012,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-62-400-normal-C6aW8wlz.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-62-400-normal-DHZ_iAJs.woff",
+    "bytes": 52320,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-62-400-normal-DHZ_iAJs.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-63-400-normal-D9Yz2T5Z.woff2",
+    "bytes": 33844,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-63-400-normal-D9Yz2T5Z.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-63-400-normal-PCm7L9CS.woff",
+    "bytes": 42728,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-63-400-normal-PCm7L9CS.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-64-400-normal-B0Rn35--.woff",
+    "bytes": 34400,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-64-400-normal-B0Rn35--.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-64-400-normal-zO3MX6VG.woff2",
+    "bytes": 27092,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-64-400-normal-zO3MX6VG.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-65-400-normal-CljXbftV.woff2",
+    "bytes": 30440,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-65-400-normal-CljXbftV.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-65-400-normal-DPlyYozD.woff",
+    "bytes": 38032,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-65-400-normal-DPlyYozD.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-66-400-normal-Bk-ztbpu.woff",
+    "bytes": 46044,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-66-400-normal-Bk-ztbpu.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-66-400-normal-DKdlHu8w.woff2",
+    "bytes": 36552,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-66-400-normal-DKdlHu8w.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-67-400-normal-9ncekkpq.woff",
+    "bytes": 48524,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-67-400-normal-9ncekkpq.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-67-400-normal-BDu21ef3.woff2",
+    "bytes": 37792,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-67-400-normal-BDu21ef3.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-68-400-normal-Dw6QCiOW.woff",
+    "bytes": 37620,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-68-400-normal-Dw6QCiOW.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-68-400-normal-hoVoFP-j.woff2",
+    "bytes": 28636,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-68-400-normal-hoVoFP-j.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-69-400-normal-B3IgJsQf.woff",
+    "bytes": 49604,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-69-400-normal-B3IgJsQf.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-69-400-normal-BJ3CMi3F.woff2",
+    "bytes": 38480,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-69-400-normal-BJ3CMi3F.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-70-400-normal-C0yQjQtR.woff2",
+    "bytes": 27852,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-70-400-normal-C0yQjQtR.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-70-400-normal-DAtBrLj0.woff",
+    "bytes": 35280,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-70-400-normal-DAtBrLj0.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-71-400-normal-6RtShfdz.woff2",
+    "bytes": 33200,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-71-400-normal-6RtShfdz.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-71-400-normal-BvwBzadP.woff",
+    "bytes": 41400,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-71-400-normal-BvwBzadP.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-72-400-normal-DU9cEqFy.woff2",
+    "bytes": 34536,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-72-400-normal-DU9cEqFy.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-72-400-normal-Yo7y5qUX.woff",
+    "bytes": 42204,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-72-400-normal-Yo7y5qUX.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-73-400-normal-CtJJDZv6.woff2",
+    "bytes": 29312,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-73-400-normal-CtJJDZv6.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-73-400-normal-DZb8JZQI.woff",
+    "bytes": 35500,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-73-400-normal-DZb8JZQI.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-74-400-normal-CT9ZdMi7.woff2",
+    "bytes": 39516,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-74-400-normal-CT9ZdMi7.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-74-400-normal-D7h9gb5g.woff",
+    "bytes": 51444,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-74-400-normal-D7h9gb5g.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-75-400-normal-BfdOvj6D.woff",
+    "bytes": 42460,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-75-400-normal-BfdOvj6D.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-75-400-normal-cDgzDN9R.woff2",
+    "bytes": 30748,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-75-400-normal-cDgzDN9R.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-76-400-normal-6PFArNmC.woff2",
+    "bytes": 34580,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-76-400-normal-6PFArNmC.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-76-400-normal-DX0ysdI3.woff",
+    "bytes": 43728,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-76-400-normal-DX0ysdI3.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-77-400-normal-BWpS4R4f.woff2",
+    "bytes": 27252,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-77-400-normal-BWpS4R4f.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-77-400-normal-CJEwT72X.woff",
+    "bytes": 34164,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-77-400-normal-CJEwT72X.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-78-400-normal-C8Qv8i5s.woff2",
+    "bytes": 37124,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-78-400-normal-C8Qv8i5s.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-78-400-normal-DUYiLBAg.woff",
+    "bytes": 45768,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-78-400-normal-DUYiLBAg.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-79-400-normal-BbSuQnuv.woff2",
+    "bytes": 30772,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-79-400-normal-BbSuQnuv.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-79-400-normal-Ctni6CZ3.woff",
+    "bytes": 38108,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-79-400-normal-Ctni6CZ3.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-80-400-normal-CbV_qwmj.woff2",
+    "bytes": 23480,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-80-400-normal-CbV_qwmj.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-80-400-normal-Vz9jYqrh.woff",
+    "bytes": 28996,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-80-400-normal-Vz9jYqrh.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-81-400-normal-BM15ApSf.woff",
+    "bytes": 39200,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-81-400-normal-BM15ApSf.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-81-400-normal-Cv65_0eP.woff2",
+    "bytes": 32008,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-81-400-normal-Cv65_0eP.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-82-400-normal-D0k_c--T.woff",
+    "bytes": 40152,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-82-400-normal-D0k_c--T.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-82-400-normal-Dun_x8SN.woff2",
+    "bytes": 32644,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-82-400-normal-Dun_x8SN.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-83-400-normal-Dy_u01IU.woff",
+    "bytes": 39064,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-83-400-normal-Dy_u01IU.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-83-400-normal-tO7ZOFaC.woff2",
+    "bytes": 30896,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-83-400-normal-tO7ZOFaC.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-84-400-normal-C7sK6VKD.woff",
+    "bytes": 28404,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-84-400-normal-C7sK6VKD.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-84-400-normal-M2fXgkk0.woff2",
+    "bytes": 22580,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-84-400-normal-M2fXgkk0.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-85-400-normal-DFwihTwT.woff",
+    "bytes": 26720,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-85-400-normal-DFwihTwT.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-85-400-normal-DcI168fu.woff2",
+    "bytes": 21848,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-85-400-normal-DcI168fu.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-86-400-normal-BFabe8IW.woff",
+    "bytes": 31136,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-86-400-normal-BFabe8IW.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-86-400-normal-CGkx55Y_.woff2",
+    "bytes": 25188,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-86-400-normal-CGkx55Y_.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-87-400-normal-B5MrgKn3.woff2",
+    "bytes": 5444,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-87-400-normal-B5MrgKn3.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-87-400-normal-BARL4C6Q.woff",
+    "bytes": 6696,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-87-400-normal-BARL4C6Q.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-88-400-normal-CIwAp--6.woff2",
+    "bytes": 6188,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-88-400-normal-CIwAp--6.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-88-400-normal-DyfrOst6.woff",
+    "bytes": 7440,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-88-400-normal-DyfrOst6.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-89-400-normal-BHDzUdXB.woff2",
+    "bytes": 6988,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-89-400-normal-BHDzUdXB.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-89-400-normal-D0maJ64B.woff",
+    "bytes": 8852,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-89-400-normal-D0maJ64B.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-90-400-normal-DI5OYVKn.woff",
+    "bytes": 7592,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-90-400-normal-DI5OYVKn.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-90-400-normal-j1_zBBcU.woff2",
+    "bytes": 6028,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-90-400-normal-j1_zBBcU.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-91-400-normal-CpJoLyxC.woff",
+    "bytes": 7420,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-91-400-normal-CpJoLyxC.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-91-400-normal-XCZOhL2r.woff2",
+    "bytes": 5952,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-91-400-normal-XCZOhL2r.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-99-400-normal-CK_HMTCf.woff2",
+    "bytes": 6924,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-99-400-normal-CK_HMTCf.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-99-400-normal-DMD0njN6.woff",
+    "bytes": 8460,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-99-400-normal-DMD0njN6.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-cyrillic-400-normal-CKVrD7nP.woff2",
+    "bytes": 8056,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-cyrillic-400-normal-CKVrD7nP.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-cyrillic-400-normal-QefBdri5.woff",
+    "bytes": 8824,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-cyrillic-400-normal-QefBdri5.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-latin-400-normal-C8a051Zj.woff2",
+    "bytes": 18652,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-latin-400-normal-C8a051Zj.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-latin-400-normal-DOGDV2P4.woff",
+    "bytes": 22616,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-latin-400-normal-DOGDV2P4.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-latin-ext-400-normal-B-QvUXqw.woff2",
+    "bytes": 5836,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-latin-ext-400-normal-B-QvUXqw.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-latin-ext-400-normal-Bw90cvFC.woff",
+    "bytes": 7164,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-latin-ext-400-normal-Bw90cvFC.woff"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-vietnamese-400-normal-C48jddbf.woff2",
+    "bytes": 6004,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-vietnamese-400-normal-C48jddbf.woff2"
+  },
+  {
+    "path": "/brand/assets/noto-serif-sc-vietnamese-400-normal-x6X9E9uA.woff",
+    "bytes": 7520,
+    "source": "https://torikorean.com/brand/assets/noto-serif-sc-vietnamese-400-normal-x6X9E9uA.woff"
+  }
+]
