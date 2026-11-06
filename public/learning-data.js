@@ -144,3 +144,7 @@ export const topikQuestions=[
  {question:'听句子，选择提到的时间。',audio:'우리 내일 만나요.',options:['明天','昨天','今天早上','上周'],answer:'明天',explanation:'내일 是明天。“我们明天见。”'},
  {question:'카페(　) 한국어를 공부해요.',options:['에서','에','를','가'],answer:'에서',explanation:'表示动作发生的地点用 에서。这里是在咖啡馆学习。'}
 ];
+
+import {extendCurriculum} from './curriculum-extended.js';
+extendCurriculum({words,diaries,grammar,readings,scenarios,topikQuestions});
+export const curriculumChapters=Array.from({length:9},(_,i)=>({id:i+1,name:diaries[i*10]?.chapter,level:i<4?'A1':'A2',days:diaries.filter(d=>d.id>i*10&&d.id<=(i+1)*10)}));

@@ -18,8 +18,8 @@ function feature(id){
   sound:['从一个声音开始','韩语 40 音',`<p>轻点字母，听听韩语最初的声音。</p><div class="rd-letters">${phoneticGroups[0].items.map(l=>`<button data-speak="${l[2]}">${l[0]}<small>${l[1]}</small></button>`).join('')}</div>`],
   diary:['DAY 01 · 出发去兽尔','先把勇气，装进行李。',`<div class="rd-preview"><strong lang="ko">${diaries[0].ko}</strong><p>${diaries[0].translation}</p></div><p>听故事、学新词，再写下一句属于你的韩语。</p>`],
   vocabulary:['WORDS IN YOUR POCKET','把新词装进口袋',`<div class="rd-letters">${words.slice(0,5).map(w=>`<button data-speak="${w.ko}" style="font-size:15px">${w.ko}<small>${w.zh}</small></button>`).join('')}</div><p>词汇卡片、例句朗读、收藏与间隔复习。</p>`],
-  grammar:['WORDS BECOME STORIES','让词，连成自己的话。',`<div class="rd-preview"><strong>이에요 / 예요</strong><p>저는 토리예요. — 我是兔莉。</p></div><p>12 个常用语法，配合例句与随堂小测验。</p>`],
-  'ai-chat':['HELLO, NEW FRIEND','从“你好”，聊到“明天见”。',`<p>在狐狸咖啡馆点单、认识兔莉，或去街角小店逛逛。本版本为离线规则练习。</p><div class="rd-discovery">${scenarios.map(s=>`<a href="${learn('speaking/'+s.id)}">${s.icon} ${s.name} ↗</a>`).join('')}</div>`]
+  grammar:['WORDS BECOME STORIES','让词，连成自己的话。',`<div class="rd-preview"><strong>이에요 / 예요</strong><p>저는 토리예요. — 我是兔莉。</p></div><p>42 个语法点，配合例句与随堂小测验。</p>`],
+  'ai-chat':['HELLO, NEW FRIEND','从“你好”，聊到“明天见”。',`<p>在狐狸咖啡馆点单、认识兔莉，或去街角小店逛逛。云端登录后可进行真实 OpenAI 对话。</p><div class="rd-discovery">${scenarios.map(s=>`<a href="${learn('speaking/'+s.id)}">${s.icon} ${s.name} ↗</a>`).join('')}</div>`]
  }[id]||['EXPLORE YOUR NEXT CHAPTER',{'analysis':'猫头鹰解词屋','practice':'把韩语，用起来。','reading':'晚安书店','topik':'朝着下一站，再走近一点。','radio':'晚安之前，再听一小段。','blog':'每一天，都有新的自己。'}[id]||'下一站，兽尔。','<p>打开学习中心，按自己的节奏慢慢学会韩语。</p>'];
  open(`<div class="rd-eyebrow">${content[0]}</div><h2>${content[1]}</h2>${content[2]}<a class="rd-button primary" href="${learn(r)}">进入${content[1].replace(/[。]/g,'')} ↗</a>`);
 }

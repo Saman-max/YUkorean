@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {freshState,validateState,localDay,scheduleReview,streak,dueWords} from '../public/learning-state.js';
 import {phoneticGroups,words,diaries,grammar,readings,topikQuestions} from '../public/learning-data.js';
 test('content integrity: 40 unique letters and referenced curriculum',()=>{
- const letters=phoneticGroups.flatMap(g=>g.items.map(r=>r[0]));assert.equal(letters.length,40);assert.equal(new Set(letters).size,40);assert.equal(words.length,60);
+ const letters=phoneticGroups.flatMap(g=>g.items.map(r=>r[0]));assert.equal(letters.length,40);assert.equal(new Set(letters).size,40);assert.ok(words.length>=300);assert.equal(diaries.length,90);
  diaries.forEach(d=>{assert.ok(d.wordIds.every(id=>words[id]));assert.ok(grammar.some(g=>g.pattern===d.grammar)||d.grammar==='에 가요'||d.grammar==='같이');});
  [...grammar,...readings,...topikQuestions].forEach(q=>assert.ok(q.options.includes(q.answer)));
 });
@@ -22,8 +22,13 @@ test('streak is stable through today, yesterday, and a break',()=>{
  assert.equal(streak({'2026-11-05':1},d),0);
 });
 test('backup validation rejects invalid schema and strips unexpected state',()=>{
- assert.throws(()=>validateState(null));assert.throws(()=>validateState({version:2,completed:[],saved:[]}));
- const s=validateState({...freshState(),saved:[1,1,-1,60,'2'],completed:['diary:1','diary:1','garbage'],reviews:{1:{due:1000,interval:1},2:{due:'bad',interval:0}},notes:{1:'hello'},admin:true});
+ assert.throws(()=>validateState(null));assert.throws(()=>validateState({version:9,completed:[],saved:[]}));
+ const s=validateState({...freshState(),saved:[1,1,-1,999999,'2'],completed:['diary:1','diary:1','garbage'],reviews:{1:{due:1000,interval:1},2:{due:'bad',interval:0}},notes:{1:'hello'},admin:true});
  assert.deepEqual(s.saved,[1]);assert.deepEqual(s.completed,['diary:1']);assert.equal(s.admin,undefined);assert.deepEqual(s.reviews,{1:{due:1000,interval:1}});assert.equal(s.notes[1],'hello');
  assert.deepEqual(validateState(JSON.parse(JSON.stringify(freshState()))),freshState());
+});
+test('complete curriculum has ninety distinct days, nine chapters and 270 valid exercises',()=>{
+ assert.deepEqual(diaries.map(d=>d.id),Array.from({length:90},(_,i)=>i+1));assert.equal(new Set(diaries.map(d=>d.title)).size,90);
+ assert.equal(new Set(diaries.map(d=>d.chapter)).size,9);assert.equal(diaries.flatMap(d=>d.exercises).length,270);
+ for(const d of diaries){assert.equal(d.exercises.length,3);for(const q of d.exercises){assert.ok(q.options.includes(q.answer));assert.equal(new Set(q.options).size,q.options.length);}assert.ok(d.wordIds.every(id=>words[id]));}
 });
